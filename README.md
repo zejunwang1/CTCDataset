@@ -20,7 +20,9 @@
 - **cscd-ns**：针对母语人士的中文拼写纠错数据集，包括 40,000 个来自新浪微博真实帖子的注释句子。来自
   https://github.com/nghuyong/cscd-ns
   
-  LCSTS-IME-2M 是一个用于中文拼写检查任务的大规模、高质量的伪数据集，包括超过 200 万个样本。源句子来自 LCSTS 数据集，通过拼音 IME 模拟输入构建。百度网盘下载地址: https://pan.baidu.com/s/1v7wpw65z0mmnB4XOzdF_jQ  提取码: gv7m
+  LCSTS-IME-2M 是一个用于中文拼写检查任务的大规模、高质量的伪数据集，包括超过 200 万个样本。源句子来自 LCSTS 数据集，通过拼音 IME 模拟输入构建。
+  百度网盘下载地址: https://pan.baidu.com/s/1v7wpw65z0mmnB4XOzdF_jQ
+  提取码: gv7m
   
 - **lemon**：多领域拼写纠错数据集，包括汽车、游戏、医疗、新闻、小说等领域，来自 https://github.com/gingasan/lemon/tree/main/lemon_v2
 
@@ -48,8 +50,8 @@
   
   初赛阶段约 100 万条伪数据下载地址：
   https://pan.baidu.com/s/1gS2dpcQIZpvyT-a1jEsGSQ
-  
   提取码: 99d7
+  
 - **yacsc**：包含 2550 个句对的语法纠错数据集，位于`yacsc/YACSC/YACSC-with_GE.jsonl`，来自 https://github.com/blcuicall/yacsc
 - **NLPCC2023-task1**：任务一中文语法纠错数据集，来自 http://tcci.ccf.org.cn/conference/2023/taskdata.php
   
