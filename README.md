@@ -21,7 +21,7 @@
   https://github.com/nghuyong/cscd-ns
   
   LCSTS-IME-2M 是一个用于中文拼写检查任务的大规模、高质量的伪数据集，包括超过 200 万个样本。源句子来自 LCSTS 数据集，通过拼音 IME 模拟输入构建。
-  百度网盘下载地址: https://pan.baidu.com/s/1v7wpw65z0mmnB4XOzdF_jQ
+  百度网盘下载地址: https://pan.baidu.com/s/1v7wpw65z0mmnB4XOzdF_jQ  
   提取码: gv7m
   
 - **lemon**：多领域拼写纠错数据集，包括汽车、游戏、医疗、新闻、小说等领域，来自 https://github.com/gingasan/lemon/tree/main/lemon_v2
@@ -35,8 +35,7 @@
 - **Wang271k**：一份基于 OCR 和 ASR 方法合成的中文拼写纠错数据集，包含 27w+ 个句子对，来自 
   https://github.com/wdimmy/Automatic-Corpus-Generation/tree/master/corpus
 
-- **yacsc**：包含 2550 个句对的拼写纠错数据集，位于`yacsc/YACSC/YACSC-no_GE.jsonl`
-  来自 https://github.com/blcuicall/yacsc
+- **yacsc**：包含 2550 个句对的拼写纠错数据集，位于`yacsc/YACSC/YACSC-no_GE.jsonl`，来自 https://github.com/blcuicall/yacsc
   
   该项目同时提供了校对后的 sighan 测试集，缓解原始 sighan 测试集中由于繁简转换带来的噪音以及漏标误标问题，位于`yacsc/sighan_revised/`目录下。
 
@@ -49,7 +48,7 @@
 - **midu2022**：蜜度中文文本智能校对大赛，初赛阶段约 1000 条真实场景训练集数据位于`midu2022/preliminary_extend_train.jsonl`，初赛阶段约 1000 条真实场景验证集数据位于`midu2022/preliminary_val.jsonl`。决赛阶段约 2900 条真实场景数据位于`midu2022/final.jsonl`。
   
   初赛阶段约 100 万条伪数据下载地址：
-  https://pan.baidu.com/s/1gS2dpcQIZpvyT-a1jEsGSQ
+  https://pan.baidu.com/s/1gS2dpcQIZpvyT-a1jEsGSQ  
   提取码: 99d7
   
 - **yacsc**：包含 2550 个句对的语法纠错数据集，位于`yacsc/YACSC/YACSC-with_GE.jsonl`，来自 https://github.com/blcuicall/yacsc
