@@ -15,10 +15,10 @@
 ### 拼写纠错
 
 - **ECSpell**：法律、医学、政府领域拼写纠错数据集，来自 
-  
   https://github.com/aopolin-lv/ECSpell/tree/main/Data/domains_data
 
-- **cscd-ns**：针对母语人士的中文拼写纠错数据集，包括 40,000 个来自新浪微博真实帖子的注释句子。来自 https://github.com/nghuyong/cscd-ns
+- **cscd-ns**：针对母语人士的中文拼写纠错数据集，包括 40,000 个来自新浪微博真实帖子的注释句子。来自
+  https://github.com/nghuyong/cscd-ns
   
   LCSTS-IME-2M 是一个用于中文拼写检查任务的大规模、高质量的伪数据集，包括超过 200 万个样本。源句子来自 LCSTS 数据集，通过拼音 IME 模拟输入构建。百度网盘下载地址: https://pan.baidu.com/s/1v7wpw65z0mmnB4XOzdF_jQ  提取码: gv7m
 
