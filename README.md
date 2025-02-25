@@ -120,8 +120,8 @@
 2550 yacsc/YACSC/YACSC-no_GE.jsonl
 2550 yacsc/YACSC/YACSC-with_GE.jsonl
 
-2311 cctc_test_wide.jsonl
-2159 cctc_train.jsonl
+2311 CCTC/cctc_test_wide.jsonl
+2159 CCTC/cctc_train.jsonl
 
 217634 CTC2021/train_large_v2.jsonl
    969 CTC2021/val.jsonl
