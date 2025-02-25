@@ -56,6 +56,10 @@
 
 ### 语法错误
 
+- **CCTC**：针对母语人士的跨句中文文本纠错数据集，来自 https://aclanthology.org/2022.coling-1.294.pdf
+
+  本项目对原始数据集`CCTC/source_data`进行了处理，在提取出包含错误的句子对同时，采样了一定数量的不含错误句子对。
+
 - **CTC2021**：中文文本纠错比赛，来自 https://github.com/destwang/CTCResources
 
 - **midu2022**：蜜度中文文本智能校对大赛，初赛阶段约 1000 条真实场景训练集数据位于`midu2022/preliminary_extend_train.jsonl`，初赛阶段约 1000 条真实场景验证集数据位于`midu2022/preliminary_val.jsonl`。决赛阶段约 2900 条真实场景数据位于`midu2022/final.jsonl`。
@@ -115,6 +119,9 @@
 1100 yacsc/sighan_revised/test_sighan15.jsonl
 2550 yacsc/YACSC/YACSC-no_GE.jsonl
 2550 yacsc/YACSC/YACSC-with_GE.jsonl
+
+2311 cctc_test_wide.jsonl
+2159 cctc_train.jsonl
 
 217634 CTC2021/train_large_v2.jsonl
    969 CTC2021/val.jsonl
