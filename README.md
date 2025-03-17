@@ -62,7 +62,7 @@
 
 - **CTC2021**：中文文本纠错比赛，来自 https://github.com/destwang/CTCResources
 
-- **midu2022**：蜜度中文文本智能校对大赛，初赛阶段约 1000 条真实场景训练集数据位于`midu2022/preliminary_extend_train.jsonl`，初赛阶段约 1000 条真实场景验证集数据位于`midu2022/preliminary_val.jsonl`。决赛阶段约 2900 条真实场景数据位于`midu2022/final.jsonl`。
+- **midu2022**：蜜度中文文本智能校对大赛，初赛阶段约 1000 条修正后的真实场景训练集数据位于`midu2022/preliminary_extend_train.jsonl`，初赛阶段约 1000 条修正后的真实场景验证集数据位于`midu2022/preliminary_val.jsonl`。决赛阶段约 2900 条修正后的真实场景数据位于`midu2022/final.jsonl`。
   
   初赛阶段约 100 万条伪数据下载地址：
   
